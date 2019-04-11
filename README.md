@@ -7,7 +7,7 @@
 
 
 ## See it in action
-<a href="https://dashingcode.github.io/front-cover/">Live demo page</a>
+<a href="https://jamie-sherriff.github.io/">Live demo page</a>
 
 ## Credits
 The background image that was used as an example comes from Tom Hall.
